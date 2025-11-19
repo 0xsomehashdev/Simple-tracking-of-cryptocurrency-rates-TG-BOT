@@ -1,0 +1,13 @@
+# Виртуальное окружение
+venv/
+.venv/
+env/
+.env/
+
+# Файл с токеном и секретами
+config.py
+token.py
+secrets.py
+*.pyc
+__pycache__/
+.DS_Store
